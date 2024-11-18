@@ -59,7 +59,9 @@ Welcome to the **Essentials of AI** workshop! This workshop provides an explorat
 - Tools and techniques to make AI models interpretable.
 - Role of explainability in building trust and accountability.
 
-### 10. **Generative AI: Future of Creativity**
-- Understanding generative models like GANs, VAEs, and LLMs.
+### 10. **Generative AI vs Discriminatory AI**
+- How do Generative vs Discriminatory AI models work?
+- Understanding generative models like GANs, VAEs.
+- Generative and discriminatory parts of Transformer architecture  
 - Use cases in art, music, content creation.
 - Future challenges and opportunities in generative AI.
